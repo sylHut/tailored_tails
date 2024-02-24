@@ -1,4 +1,7 @@
 # tailored_tails
+To see the ML model codes, see the Modeling folder. 
+* Logistics Regression Model
+* Random Forest Model
 
 # Data
 * NYC Dog Licensing Data-2024.Feb (616890 rows x 8 columns)
