@@ -5,16 +5,16 @@
 Our initiative, tailored_tails, is dedicated to helping potential dog owners navigate the adoption process with confidence. By collecting and analyzing diverse data within a Machine Learning Model, we provide personalized recommendations on dog breeds that best match individual lifestyles and preferences.
 
 ## Meet the Minds Behind tailored_tails
-* Rebecca Bennett
-![Rebecca](Rebecca.png)
-* Samantha Rose Pabalate
-![Sam](Sam.png)
-* Cherif Arkam
-![Cherif](Cherif.png)
-* Sung Youn Hutchison
-![Sungyoun](Sungyoun.png)
-* Wingtung Lee
-![Wingtung](Wingtung.png)
+
+![Rebecca](Rebecca.png) Rebecca Bennett
+
+![Sam](Sam.png) Samantha Rose Pabalate
+
+![Cherif](Cherif.png) Cherif Arkam
+
+![Sungyoun](Sungyoun.png) Sung Youn Hutchison
+
+![Wingtung](Wingtung.png) Wingtung Lee
 
 ## Data Companions
 ### Finding the Perfect Dog Breed for You
