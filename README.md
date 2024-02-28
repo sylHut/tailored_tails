@@ -1,20 +1,20 @@
 # tailored_tails, _discovering your perfect pup_ 
-![puppies](istockphoto-puppies.png)
+![puppies](Images/istockphoto-puppies.png)
 (Source: https://unsplash.com/s/photos/image-dog)
 ## Finding Your Ideal Dog Companion
 Our initiative, tailored_tails, is dedicated to helping potential dog owners navigate the adoption process with confidence. By collecting and analyzing diverse data within a Machine Learning Model, we provide personalized recommendations on dog breeds that best match individual lifestyles and preferences.
 
 ## Meet the Minds Behind tailored_tails
 
-![Rebecca](Rebecca.png) Rebecca Bennett
+![Rebecca](Images/Rebecca.png) Rebecca Bennett
 
-![Sam](Sam.png) Samantha Rose Pabalate
+![Sam](Images/Sam.png) Samantha Rose Pabalate
 
-![Cherif](Cherif.png) Cherif Arkam
+![Cherif](Images/Cherif.png) Cherif Arkam
 
-![Sungyoun](Sungyoun.png) Sung Youn Hutchison
+![Sungyoun](Images/Sungyoun.png) Sung Youn Hutchison
 
-![Wingtung](Wingtung.png) Wingtung Lee
+![Wingtung](Images/Wingtung.png) Wingtung Lee
 
 ## Data Companions
 ### Finding the Perfect Dog Breed for You
